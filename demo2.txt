@@ -1,2 +1,2 @@
-we are going to use git tag command
-it is use to identify the version of commtis
+git tag commands is for giving name to commit id's to identify the version
+
