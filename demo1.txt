@@ -1,2 +1,3 @@
 we are going to practice git stash command
 it store the unfinished file of the project
+this file is for mini project of git stash command
